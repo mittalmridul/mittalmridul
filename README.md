@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and Computer Networks
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me ...Twitter
+- 📫 How to reach me ...Twitter @mridsmittal
 
 <!---
 mittalmridul/mittalmridul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
