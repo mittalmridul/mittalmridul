@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mittalmridul
-- 👀 I’m interested in ML and Computer Networks
+- 👀 I’m interested in ML and Computer Netw
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ML and IoT
 - 📫 How to reach me ...Twitter @mridsmittal
